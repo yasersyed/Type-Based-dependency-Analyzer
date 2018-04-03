@@ -1,0 +1,926 @@
+
+  <Database>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp
+      </children>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </Item>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </Item>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+    </Element>
+    <Element>
+      <Key>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </Key>
+      <Item>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp
+      </Item>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp
+      </children>
+      <children>
+        C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp
+      </children>
+    </Element>
+  </Database>

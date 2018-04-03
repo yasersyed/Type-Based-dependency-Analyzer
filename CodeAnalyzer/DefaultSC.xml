@@ -1,0 +1,310 @@
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\IFileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileMgr.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ConfigureParser.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Parser.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ScopeStack.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\itokcollection.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\ActionsAndRules.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Tokenizer.cpp</StrongComponents>
+</Component>
+<Component>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.h</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Executive.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\FileSystem.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Logger.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\SemiExp.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\AbstrSynTree.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\GrammarHelpers.cpp</StrongComponents>
+	 <StrongComponents>C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\CodeAnalyzer\Utilities.cpp</StrongComponents>
+</Component>

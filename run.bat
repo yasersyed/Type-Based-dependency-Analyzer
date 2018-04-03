@@ -1,0 +1,1 @@
+Debug\CodeAnalyzer.exe ./CodeAnalyzer *.h *.cpp -a ./DBOutput.xml ./SCOutput.xml

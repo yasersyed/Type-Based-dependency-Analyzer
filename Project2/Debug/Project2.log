@@ -1,0 +1,4 @@
+﻿  TestExecutive.cpp
+c:\users\yaser\desktop\fawcett assignments\project2\typeanalysis\typeanalysis.h(30): warning C4101: 'x': unreferenced local variable
+TestExecutive.obj : error LNK2019: unresolved external symbol "public: __thiscall Logging::Logger::~Logger(void)" (??1Logger@Logging@@QAE@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'private: static class Logging::Logger Logging::StaticLogger<2>::_logger''(void)" (??__F?_logger@?$StaticLogger@$01@Logging@@0VLogger@2@A@@YAXXZ)
+C:\Users\Yaser\Desktop\Fawcett Assignments\Project2\Debug\TestExecutive.exe : fatal error LNK1120: 1 unresolved externals
